@@ -1,4 +1,4 @@
-var faker = require('faker');
+var faker = require('../libs/faker');
 
 /*
  * GET home page.
