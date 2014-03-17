@@ -1,7 +1,7 @@
 #Infinite Links
 
 This is an innocent project to test trolling search engines.
-Every time you visit a page it will generate ten pages that you can visit, which generates another ten pages, and so on.
+Every time you visit a page it will generate five pages that you can visit, which generates another five pages, and so on.
 Inspired by [MDamien's infinity](https://github.com/MDamien/infinity)
 
 [Demo](http://infinitelinks-tjiu.rhcloud.com)

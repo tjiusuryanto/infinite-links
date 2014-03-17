@@ -1,4 +1,5 @@
-var faker = require('../libs/faker');
+var path = require('path');
+var faker = require(path.join(__dirname, "../libs/faker"));
 
 /*
  * GET home page.
